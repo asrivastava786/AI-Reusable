@@ -1,3 +1,10 @@
+#tool call latency
+#LLM response time
+#retrieval score
+#answer confidence
+#token cost
+#evaluation score
+#user satisfaction score
 import heapq
 
 class MedianFinder:
